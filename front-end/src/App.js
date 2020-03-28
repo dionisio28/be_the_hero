@@ -1,6 +1,6 @@
 import React from "react";
 import Routes from "./routes";
-import './globla.css'
+import './globlal.css'
 function App() {
   return <Routes />;
 }
