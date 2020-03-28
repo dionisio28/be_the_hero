@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Be the Hero" src="frontend/src/assets/logo.svg" width="250px" />
+    <img alt="Be the Hero" src="front-end/src/assets/logo.svg" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -32,5 +32,5 @@ O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tor
 
 
 <p align="center">
-  <img alt="Frontend" src="frontend/src/assets/heroes.png" width="50%" height="50%">
+  <img alt="Frontend" src="front-end/src/assets/heroes.png" width="50%" height="50%">
 </p>
