@@ -1,12 +1,36 @@
-# Be The Hero
+<h1 align="center">
+    <img alt="Be the Hero" src="frontend/src/assets/logo.svg" width="250px" />
+</h1>
 
-A Semana OmniStack é um workshop online produzido pela Rocketseat. Esta é a versão 11, onde o [Diego Fernandes](https://github.com/diego3g) nos ensina a desenvolver uma aplicação desde o backend até o frontend web e mobile com uma única linguagem, o Javascript. O nome da aplicação desenvolvida é Be The Hero, uma aplicação para cadastro de ONGs e casos cadastrados por elas para que outras pessoas possam ajudar a resolvê-los.
+<h4 align="center">
+  🚀 Semana OmniStack 11.0
+</h4>
 
-Para clonar o repositório, execute o seguinte comando no terminal:
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
+</p>
 
-```git clone https://github.com/dionisio28/be_the_hero.git```
+<br>
 
-# Tecnologias:
- * NodeJS para back-end, utilizando a arquitetura MVC.
-  
+<p align="center">
+  <img alt="Frontend" src="git/prev.png" width="100%">
+</p>
 
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+## 💻 Projeto
+
+O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tornando possível o usuário visualizar casos publicados por ONGs e entrar em contato com elas via E-mail ou WhatsApp, ou no caso de uma ONG, se cadastrar e encontrar um herói.
+
+
+<p align="center">
+  <img alt="Frontend" src="frontend/src/assets/heroes.png" width="50%" height="50%">
+</p>
